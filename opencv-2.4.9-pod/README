@@ -1,0 +1,11 @@
+= Jetson =
+
+See http://elinux.org/Jetson/Installing_OpenCV
+
+= Odroid =
+
+~~~~
+$ tar xvf opencv-2.4.9.zip
+$ mv Makefile-odroid odroid
+$ make
+~~~~
